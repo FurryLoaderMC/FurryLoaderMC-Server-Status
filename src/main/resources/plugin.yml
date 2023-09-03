@@ -1,0 +1,10 @@
+name: Server-Status
+version: 1.0
+main: FurryLoaderMC.ServerStatus.Main
+description: FurryLoaderMC - Server Status
+author: FurryLoaderMC
+api-version: "1.20"
+commands:
+  status:
+    description: 获取服务器状态
+    usage: /status help | motd | players | version | performance...
