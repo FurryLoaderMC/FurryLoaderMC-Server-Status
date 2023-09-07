@@ -1,5 +1,5 @@
 name: Server-Status
-version: 1.0
+version: 1.1
 main: FurryLoaderMC.ServerStatus.Main
 description: FurryLoaderMC - Server Status
 author: FurryLoaderMC
