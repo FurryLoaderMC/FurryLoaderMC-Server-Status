@@ -39,7 +39,7 @@ class SocketIO {
         }
         on("performance") {
             val data = Json.encodeToString(Main.status.getPerformance())
-            this.emit("version", data)
+            this.emit("performance", data)
         }
     }
 
